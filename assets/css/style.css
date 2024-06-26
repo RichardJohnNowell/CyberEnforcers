@@ -57,10 +57,16 @@ nav ul {
 
 /*-----------------------------------------sizing */
 
-#cyber-enforcers-small {
-    height: 230;
+#cyber-enforcers {
+    height: 230px;
     text-align: center;
-    width: 350;
+    width: 350px;
+}
+
+#cyber-enforcers-small {
+    height: 76px;
+    text-align: center;
+    width: 350px;
 }
 
 /*-----------------------------------------footer */
