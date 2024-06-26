@@ -1,106 +1,100 @@
-/*------------------------------------------------start */ 
+/*------------------------------------------------start */
 
 body {
     background-color: #354251;
     color: #dabe76;
     font-size: 1rem;
-}
-
-p {
+  }
+  
+  p {
     margin: auto;
     text-align: center;
     width: 88%;
-}
-
-/*------------------------------------------------header */
-
-.header {
+  }
+  
+  /*------------------------------------------------header */
+  
+  .header {
     color: #dabe76;
     font-weight: 700;
     letter-spacing: 0.05rem;
     padding-top: 0.625rem;
     text-align: center;
-}
-
-/*------------------------------------------menu */
-
-nav a {
+  }
+  
+  /*------------------------------------------menu */
+  
+  nav a {
     color: #354251;
     display: block;
     text-decoration: none;
-}
-
-nav a:hover {
+  }
+  
+  nav a:hover {
     background-color: #7051ff;
-    color:    #51ff51;
-}
-
-nav li {
+    color: #51ff51;
+  }
+  
+  nav li {
     display: inline-block;
     font-size: 1.2rem;
     font-weight: 500;
     height: 2.5rem;
     line-height: 2.5rem;
     margin-left: 0.4375rem;
-}
-
-nav ul {
+  }
+  
+  nav ul {
     background-color: #dabe76;
     border-radius: 0.1125rem;
     list-style: none;
     margin: auto;
     padding: 0;
     text-align: center;
-}
-
-/*------------------------------------------logo class */
-
-.cyber-enforcers {
+  }
+  
+  /*------------------------------------------logo class */
+  
+  .cyber-enforcers {
     text-align: center;
-}
-
-/*------------------------------------------sizing */
-
-#cyber-enforcers-big {
+  }
+  
+  /*------------------------------------------sizing */
+  
+  #cyber-enforcers-big {
     height: 14.375rem;
     width: 21.875rem;
-}
-
-#cyber-enforcers-small {
+  }
+  
+  #cyber-enforcers-small {
     height: 4.75rem;
     width: 21.875rem;
-}
-
-#cyber-enforcers-big,
-#cyber-enforcers-small {
-    text-align: center;
-}
-
-
-
-/*-----------------------------------------footer */
-
-footer {
+  }
+  
+  /*-----------------------------------------footer */
+  
+  footer {
     background-color: #51ff51;
     margin: 0;
     min-height: 5rem;
-}
-
-/*------------------------------------------website credit */
-
-#websitecredit {
+  }
+  
+  /*------------------------------------------website credit */
+  
+  #websitecredit {
     color: #ff51ff;
     font-size: 0.9rem;
     padding-bottom: 0.5rem;
-}
-
-/*------------------------------------------jotform */
-
-#JotFormIFrame-231864072231349 {
+  }
+  
+  /*------------------------------------------jotform */
+  
+  #JotFormIFrame-231864072231349 {
     border: none;
     height: 33.6875rem;
     max-width: 100%;
     min-width: 100%;
-}
-
-/*-----------------------------------------media queries */
+  }
+  
+  /*-----------------------------------------media queries */
+  
