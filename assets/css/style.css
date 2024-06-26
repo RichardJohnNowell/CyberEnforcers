@@ -55,6 +55,13 @@ nav ul {
     text-align: center;
 }
 
+/*-----------------------------------------sizing */
+
+#cyber-enforcers-small {
+    height: 230;
+    width: 350;
+}
+
 /*-----------------------------------------footer */
 
 footer {
