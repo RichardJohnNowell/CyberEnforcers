@@ -55,18 +55,22 @@ nav ul {
     text-align: center;
 }
 
-/*-----------------------------------------sizing */
+/*------------------------------------------logo class */
 
-#cyber-enforcers {
-    height: 230px;
+.cyber-enforcers {
+    text-align: center;
+}
 
-    width: 350px;
+/*------------------------------------------sizing */
+
+#cyber-enforcers-big {
+    height: 14.375rem;
+    width: 21.875rem;
 }
 
 #cyber-enforcers-small {
-    height: 76px;
-
-    width: 350px;
+    height: 4.75rem;
+    width: 21.875rem;
 }
 
 /*-----------------------------------------footer */
