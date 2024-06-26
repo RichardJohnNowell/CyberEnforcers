@@ -55,7 +55,7 @@ nav ul {
     text-align: center;
 }
 
-/*-----------------------------------------footer */  #ffff33
+/*-----------------------------------------footer */
 
 footer {
     background-color: #51ff51;
@@ -69,4 +69,15 @@ footer {
     color: #ff51ff;
     font-size: 0.9rem;
     padding-bottom: 0.5rem;
+}
+
+/*-----------------------------------------media queries */
+
+}
+@media only screen and (min-width: 37.5625rem) {
+    nav ul,
+    .container,
+    p {
+        width: 58%;
+    }
 }
