@@ -1,1 +1,72 @@
 /*------------------------------start */
+
+/*------------------------------------------------start */    #dabe76
+
+body {
+    background-color: #354251;
+    color: #dabe76;
+    font-size: 1rem;
+}
+
+p {
+    margin: auto;
+    text-align: center;
+    width: 88%;
+}
+
+/*------------------------------------------------header */
+
+.header {
+    color: #dabe76;
+    font-weight: 700;
+    letter-spacing: 0.05rem;
+    padding-top: 0.625rem;
+    text-align: center;
+}
+
+/*------------------------------------------menu */
+
+nav a {
+    color: #354251;
+    display: block;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: #7051ff;
+    color:    #51ff51;
+}
+
+nav li {
+    display: inline-block;
+    font-size: 1.2rem;
+    font-weight: 500;
+    height: 2.5rem;
+    line-height: 2.5rem;
+    margin-left: 0.4375rem;
+}
+
+nav ul {
+    background-color: #dabe76;
+    border-radius: 0.1125rem;
+    list-style: none;
+    margin: auto;
+    padding: 0;
+    text-align: center;
+}
+
+/*-----------------------------------------footer */  #ffff33
+
+footer {
+    background-color: #51ff51;
+    margin: 0;
+    min-height: 5rem;
+}
+
+/*------------------------------------------website credit */
+
+#websitecredit {
+    color: #ff51ff;
+    font-size: 0.9rem;
+    padding-bottom: 0.5rem;
+}
