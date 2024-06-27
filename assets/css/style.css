@@ -1,4 +1,4 @@
-/*------------------------------------------------start */
+/*-------------------------------------------------------start */
 
 body {
   background-color: #354251;
@@ -12,7 +12,7 @@ p {
   width: 88%;
 }
 
-/*------------------------------------------------header */
+/*-----------------------------------------------------header */
 
 .header {
   color: #dabe76;
@@ -22,7 +22,7 @@ p {
   text-align: center;
 }
 
-/*------------------------------------------menu */
+/*-----------------------------------------------------menu */
 
 nav a {
   color: #354251;
@@ -53,13 +53,13 @@ nav ul {
   text-align: center;
 }
 
-/*------------------------------------------flexibles */
+/*----------------------------------------------------flexibles */
 
 .flex-container {
+  align-items: center;
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
-  align-items: center;
 }
 
 .flex-container > div {
@@ -67,7 +67,12 @@ nav ul {
   padding: 1.2rem;
 }
 
-/*------------------------------------------sizing */
+/*----------------------------------------------------sizing */
+
+#cdse-email-poster {
+  height: 28.313rem;
+  width: 21.875rem;
+}
 
 #cyber-enforcers-big {
   height: 14.375rem;
@@ -79,18 +84,13 @@ nav ul {
   width: 21.875rem;
 }
 
-#cdse-email-poster {
-  height: 28.313rem;
-  width: 21.875rem;
-}
-
-/*-----------------------------------------footer */
+/*-----------------------------------------------------footer */
 
 footer {
   height: 3rem;
 }
 
-/*------------------------------------------website credit */
+/*----------------------------------------------------website credit */
 
 #websitecredit {
   color: #cabdae;
@@ -98,7 +98,7 @@ footer {
   padding-bottom: 0.6rem;
 }
 
-/*------------------------------------------jotform */
+/*----------------------------------------------------jotform */
 
 #JotFormIFrame-231864072231349 {
   border: none;
@@ -107,13 +107,7 @@ footer {
   min-width: 100%;
 }
 
-/*-----------------------------------------media queries */
-
-@media only screen and (min-width: 37.5625rem) {
-  p {
-      width: 58%;
-  }
-}
+/*----------------------------------------------------media queries */
 
 @media only screen and (min-width: 37.5625rem) {
   nav ul {
@@ -121,5 +115,10 @@ footer {
   }
 }
 
-/*-----------------------------------------end */
+@media only screen and (min-width: 37.5625rem) {
+  p {
+      width: 58%;
+  }
+}
 
+/*----------------------------------------------------end */
