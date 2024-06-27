@@ -87,9 +87,7 @@ nav ul {
 /*-----------------------------------------footer */
 
 footer {
-  background-color: #51ff51;
-  margin: 0;
-  min-height: 5rem;
+  height: 3rem;
 }
 
 /*------------------------------------------website credit */
@@ -123,9 +121,3 @@ footer {
   }
 }
 
-@media only screen and (min-width: 37.5625rem) {
-
-  footer {
-      width: 58%;
-  }
-}
