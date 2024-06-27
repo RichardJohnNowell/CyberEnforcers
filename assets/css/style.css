@@ -86,7 +86,7 @@ nav ul {
 
 /*-----------------------------------------footer */
 
-footer {
+.footer {
   background-color: #51ff51;
   margin: 0;
   min-height: 5rem;
@@ -112,9 +112,20 @@ footer {
 /*-----------------------------------------media queries */
 
 @media only screen and (min-width: 37.5625rem) {
-  nav ul,
-  footer,
   p {
+      width: 58%;
+  }
+}
+
+@media only screen and (min-width: 37.5625rem) {
+  nav ul {
+      width: 58%;
+  }
+}
+
+@media only screen and (min-width: 37.5625rem) {
+
+  .footer {
       width: 58%;
   }
 }
