@@ -113,6 +113,7 @@ footer {
 
 @media only screen and (min-width: 37.5625rem) {
   nav ul,
+  footer,
   p {
       width: 58%;
   }
