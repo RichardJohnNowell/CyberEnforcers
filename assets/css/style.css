@@ -18,7 +18,7 @@ p {
 .header {
   color: #dabe76;
   font-weight: 700;
-  letter-spacing: 0.05rem;
+  letter-spacing: 0.1rem;
   padding-top: 0.625rem;
   text-align: center;
 }
@@ -38,7 +38,7 @@ nav a:hover {
 
 nav li {
   display: inline-block;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   font-weight: 500;
   height: 2.5rem;
   line-height: 2.5rem;
