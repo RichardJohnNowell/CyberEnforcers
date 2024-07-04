@@ -54,6 +54,12 @@ nav ul {
   text-align: center;
 }
 
+/*----------------------------------------------------links */
+
+a {
+  outline-color: transparent;
+}
+
 /*----------------------------------------------------flexibles */
 
 .flex-container {
