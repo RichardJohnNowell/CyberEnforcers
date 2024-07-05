@@ -56,8 +56,13 @@ nav ul {
 
 /*----------------------------------------------------links */
 
-a {
+/* a {
   outline-color: transparent;
+} */
+
+a:hover {
+  text-decoration: none;
+  background: #cdfeaa;
 }
 
 .links {
