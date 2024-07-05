@@ -60,6 +60,10 @@ a {
   outline-color: transparent;
 }
 
+.links {
+  text-align: left;
+}
+
 /*----------------------------------------------------flexibles */
 
 .flex-container {
