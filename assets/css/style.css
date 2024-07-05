@@ -65,8 +65,24 @@ a:hover {
   background: #cdfeaa;
 }
 
-.links {
-  text-align: start;
+#links2 {
+  text-align: left;
+}
+
+#links5 {
+  text-align: left;
+}
+
+#links6 {
+  text-align: left;
+}
+
+#links7 {
+  text-align: left;
+}
+
+#links8 {
+  text-align: left;
 }
 
 /*----------------------------------------------------flexibles */
