@@ -122,9 +122,13 @@ footer {
 /*----------------------------------------------------quiz */
 
 .quiz {
-  color: #0b48ff;
+  color: #dabe76;
   font-weight: 500;
   text-decoration: underline;
+}
+
+#cyber-quiz {
+  text-align: center;
 }
 
 /*----------------------------------------------------jotform */
