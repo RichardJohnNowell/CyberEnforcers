@@ -119,6 +119,14 @@ footer {
   padding-bottom: 0.6rem;
 }
 
+/*----------------------------------------------------quiz */
+
+.quiz {
+  color: #0b48ff;
+  font-weight: 500;
+  text-decoration: underline;
+}
+
 /*----------------------------------------------------jotform */
 
 #JotFormIFrame-231864072231349 {
